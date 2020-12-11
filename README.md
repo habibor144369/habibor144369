@@ -20,10 +20,13 @@
 <br />
 
 <img width="550px" alt="habibor144369 Github Stats" src="https://github-readme-stats.vercel.app/api?username=habibor144369&show_icons=true&locale=en" alt="habibor144369"/>
+
 <br />
 
 
-<img width="540px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibor144369&show_icons=true&locale=en&layout=compact" alt="habibor144369" /> 
-<br />
+<img width="540px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibor144369&show_icons=true&locale=en&layout=compact" alt="habibor144369" />
 
-<img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibor144369&" alt="habibor144369" />
+
+<img align="center" width="540px" src="https://github-readme-streak-stats.herokuapp.com/?user=habibor144369&" alt="habibor144369" />
+
+

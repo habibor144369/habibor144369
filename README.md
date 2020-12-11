@@ -1,7 +1,6 @@
 ### Hi there, I'm  [Solaiman Shadin][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working [Programming Hero][programming]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn React, React Native, Vue, Node
 - ⚡ Fun fact: I love to Explore the world 
@@ -27,7 +26,7 @@
 <br />
 <img width="550px" alt="habibor144369 Github Stats" src="https://github-readme-stats.vercel.app/api?username=habibor144369&show_icons=true&locale=en" alt="habibor144369"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/habibor144369)
 
 
 <br />

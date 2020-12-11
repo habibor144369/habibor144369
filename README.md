@@ -25,7 +25,7 @@
 
 <br />
 <br />
-<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
+<img width="550px" alt="habibor144369 Github Stats" src="https://github-readme-stats.vercel.app/api?username=habibor144369&show_icons=true&locale=en" alt="habibor144369"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
 

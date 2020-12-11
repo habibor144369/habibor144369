@@ -23,7 +23,7 @@
 <br />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibor144369&show_icons=true&locale=en&layout=compact" alt="habibor144369" /> 
+<img width-"550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibor144369&show_icons=true&locale=en&layout=compact" alt="habibor144369" /> 
 <br />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibor144369&" alt="habibor144369" />

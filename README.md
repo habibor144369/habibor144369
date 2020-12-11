@@ -20,20 +20,15 @@
 
 <br />
 
-<br />
 
-<br />
-<br />
 <img width="550px" alt="habibor144369 Github Stats" src="https://github-readme-stats.vercel.app/api?username=habibor144369&show_icons=true&locale=en" alt="habibor144369"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/habibor144369)
-
+[![Top Langs card](src="https://github-readme-stats.vercel.app/api/top-langs?username=habibor144369&show_width=550)](https://github.com/habibor144369)
 
 <br />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibor144369&show_icons=true&locale=en&layout=compact" alt="habibor144369" /></p> 
 <br />
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibor144369&" alt="habibor144369" /></p>

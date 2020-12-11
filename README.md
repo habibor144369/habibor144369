@@ -42,7 +42,7 @@
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibor144369&show_icons=true&locale=en&layout=compact" alt="habibor144369" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibor144369&show_icons=true&locale=en&layout=compact" alt="habibor144369" /></p> <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibor144369&show_icons=true&locale=en" alt="habibor144369" /></p>
 

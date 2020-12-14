@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There, I'm Habibor Rahaman 👋</h1>
+<h1 align="center" color="blue"> Hi There, I'm Habibor Rahaman 👋</h1>
 <p align="center">
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>

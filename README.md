@@ -1,4 +1,4 @@
-<h1 aling="center"> Hi there, I'm Habibor Rahaman 👋</h1>
+<h1 align="center"> Hi there, I'm Habibor Rahaman 👋</h1>
 <p align="center">
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
@@ -14,6 +14,8 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100009980252982) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@onilhabib1) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)]("#")
+
+<br />
 
 ### Languages and Tools:
 

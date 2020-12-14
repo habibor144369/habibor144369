@@ -1,5 +1,5 @@
 <p align="center">
-<h1 aling = 'center'> Hi there, I'm Habibor Rahaman 👋</h1>
+<h1 aling="center"> Hi there, I'm Habibor Rahaman 👋</h1>
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
 
